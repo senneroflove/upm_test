@@ -1,0 +1,19 @@
+{
+    "name": "com.sena.test",
+    "version": "0.1.0",
+    "displayName": "Sena Package Test",
+    "description": "Test for Unity",
+    "unity": "2020.2",
+    "author": {
+        "name": "Enhance ExperienceSena Inc.",
+        "email": "senneroflove@gmail.com",
+        "url": "https://zenn.dev/nakashun/articles/47b04436ddfd5b"
+    },
+    "samples": [
+        {
+            "displayName": "Basic samples",
+            "description": "Basic  samples data.",
+            "path": "Samples~/Basic"
+        }
+    ]
+  }
